@@ -1,4 +1,4 @@
-package com.example.streamstay.models.LiveStreamingInteraction
+package com.example.streamstay.data.models.LiveStreamingInteraction
 
 data class ChatMessage(
     val messageId: String,     // Unique Message ID

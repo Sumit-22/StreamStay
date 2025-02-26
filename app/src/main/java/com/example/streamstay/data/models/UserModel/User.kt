@@ -1,4 +1,4 @@
-package com.example.streamstay.models.UserModel
+package com.example.streamstay.data.models.UserModel
 
 data class User(
     val userId: String,                // Unique User ID

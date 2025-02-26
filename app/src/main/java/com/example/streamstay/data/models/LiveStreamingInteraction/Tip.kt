@@ -1,4 +1,4 @@
-package com.example.streamstay.models.LiveStreamingInteraction
+package com.example.streamstay.data.models.LiveStreamingInteraction
 data class Tip(
     val tipId: String,         // Unique Tip ID
     val senderId: String,      // User sending the tip
